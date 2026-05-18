@@ -18,7 +18,11 @@ For repositories migrated to noaa-afsc organization
 -->
 # Links
 
-https://github.com/noaa-afsc/NOAA-CEFI-Alaska
+[public NOAA-CEFI-Alaska] (https://github.com/noaa-afsc/NOAA-CEFI-Alaska)
+
+[internal CEFI-AK] (https://github.com/noaa-afsc/CEFI-AK)
+
+[ace.psmfc.org](http://ace.psmfc.org/)[ace.psmfc.org](http://ace.psmfc.org/)
 
 # Disclaimer
 
