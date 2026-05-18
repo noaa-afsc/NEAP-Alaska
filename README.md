@@ -16,6 +16,9 @@ For repositories migrated to noaa-afsc organization
 4. Add an open LICENSE file. For government work, we are required to use an open LICENSE. If non-government FTEs were contributors and the repository does not yet have an open license on it, make sure all parties agree before applying an open source license.
 5. Add the file .github/workflows/secretScan.yml. This will check for token and keys that are accidentally committed to a repository.
 -->
+# Links
+
+https://github.com/noaa-afsc/NOAA-CEFI-Alaska
 
 # Disclaimer
 
