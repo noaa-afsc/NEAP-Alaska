@@ -17,10 +17,20 @@ For repositories migrated to noaa-afsc organization
 5. Add the file .github/workflows/secretScan.yml. This will check for token and keys that are accidentally committed to a repository.
 -->
 # Links
+## public
+.
+
+|| TEAM | Description |POC|
+|:--- | :--- | :----- |:--|
+|<img src="ACTv2-01.png" alt="drawing" width="200" />| `AK CEFI` | Sub-team working to advance next generation ecosystem forecasting & planning tools ||
 
 * [(public) NOAA-CEFI-Alaska](https://github.com/noaa-afsc/NOAA-CEFI-Alaska)
+* https://github.com/NOAA-EDAB/Rpath
+*  [Alaska Climate & Ecosystems (ACE) dashboard](ace.psmfc.org)
+  
+## internal (NOAA)
 * [(internal) CEFI-AK](https://github.com/noaa-afsc/AK-CEFI)
-* [Alaska Climate & Ecosystems (ACE) dashboard](ace.psmfc.org)
+
 
 # AK-NEAP sub-Teams
 coming soon!
