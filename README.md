@@ -19,14 +19,14 @@ For repositories migrated to noaa-afsc organization
 # Links
 ## Public
 
-|| TEAM | Description |POC|
+|| Link | Description |POC|
 |:--- | :--- | :----- |:--|
 |<img src="Figs/logos/ACTv2-01.png" alt="drawing" width="100" />| ['NOAA-CEFI-Alaska'](https://github.com/noaa-afsc/NOAA-CEFI-Alaska) | Sub-team working to advance next generation ecosystem forecasting & planning tools ||
 |<img src="Figs/logos/logo.png" alt="drawing" width="100" />| ['Rpath()'](https://github.com/NOAA-EDAB/Rpath) | R() based Ecosystem modeling ||
 |<img src="Figs/logos/ACE.png" alt="drawing" width="100" />| [ACE dashboard](ace.psmfc.org) | The Alaska Climate & Ecosystems dashboard: online hub for EBM information and tools||
   
 ## Internal (NOAA)
-|| TEAM | Description |POC|
+|| Link | Description |POC|
 |:--- | :--- | :----- |:--|
 |<img src="Figs/logos/ACTv2-01.png" alt="drawing" width="100" />| ['CEFI-AK'](https://github.com/noaa-afsc/AK-CEFI) | Internal github for the sub-team working to advance next generation ecosystem forecasting & planning tools ||
 
