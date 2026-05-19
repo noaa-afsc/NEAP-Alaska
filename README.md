@@ -17,20 +17,18 @@ For repositories migrated to noaa-afsc organization
 5. Add the file .github/workflows/secretScan.yml. This will check for token and keys that are accidentally committed to a repository.
 -->
 # Links
-## public
-.
+## Public
 
 || TEAM | Description |POC|
 |:--- | :--- | :----- |:--|
-|<img src="ACTv2-01.png" alt="drawing" width="100" />| `AK CEFI` | Sub-team working to advance next generation ecosystem forecasting & planning tools ||
-
-* [(public) NOAA-CEFI-Alaska](https://github.com/noaa-afsc/NOAA-CEFI-Alaska)
-* https://github.com/NOAA-EDAB/Rpath
-*  [Alaska Climate & Ecosystems (ACE) dashboard](ace.psmfc.org)
+|<img src="Figs/logos/ACTv2-01.png" alt="drawing" width="100" />| ['NOAA-CEFI-Alaska'](https://github.com/noaa-afsc/NOAA-CEFI-Alaska) | Sub-team working to advance next generation ecosystem forecasting & planning tools ||
+|<img src="Figs/logos/logo.png" alt="drawing" width="100" />| ['Rpath()'](https://github.com/NOAA-EDAB/Rpath) | R() based Ecosystem modeling ||
+|<img src="Figs/logos/ACE" alt="drawing" width="100" />| [ACE dashboard](ace.psmfc.org) | The Alaska Climate & Ecosystems dashboard: online hub for EBM information and tools||
   
-## internal (NOAA)
-* [(internal) CEFI-AK](https://github.com/noaa-afsc/AK-CEFI)
-
+## Internal (NOAA)
+|| TEAM | Description |POC|
+|:--- | :--- | :----- |:--|
+|<img src="Figs/logos/ACTv2-01.png" alt="drawing" width="100" />| ['CEFI-AK'](https://github.com/noaa-afsc/AK-CEFI) | Internal github for the sub-team working to advance next generation ecosystem forecasting & planning tools ||
 
 # AK-NEAP sub-Teams
 coming soon!
