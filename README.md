@@ -1,5 +1,5 @@
-# Welcome to the Alaska NEAP (AK-NEAP) Repo!
-This is the public facing repository for the Alaska regional NEAP team. As a first step please feel free to go to our discussion board and post an annoucement, idea or other comments. We'll use this public repo to collate ideas and feedback for our coordination to develop and implement tools, product, collabroations aand processes to support EBM in Alaska. 
+# Welcome to the Alaska NEAP (AK-NEAP) repo!
+This is the public facing repository for the Alaska regional NEAP (NOAA National Ecosystem Assessment Program)team. As a first step please feel free to go to our discussion board and post an annoucement, idea or other comments. We'll use this public repo to collate ideas and feedback for our coordination to develop and implement tools, product, collabroations aand processes to support EBM in Alaska. 
 
 Introduce yourself and join the discussion here:
 https://github.com/noaa-afsc/NEAP-Alaska/discussions  
@@ -19,14 +19,14 @@ For repositories migrated to noaa-afsc organization
 # Links
 ## Public
 
-|| TEAM | Description |POC|
-|:--- | :--- | :----- |:--|
-|<img src="Figs/logos/ACTv2-01.png" alt="drawing" width="100" />| ['NOAA-CEFI-Alaska'](https://github.com/noaa-afsc/NOAA-CEFI-Alaska) | Sub-team working to advance next generation ecosystem forecasting & planning tools ||
-|<img src="Figs/logos/logo.png" alt="drawing" width="100" />| ['Rpath()'](https://github.com/NOAA-EDAB/Rpath) | R() based Ecosystem modeling ||
-|<img src="Figs/logos/ACE" alt="drawing" width="100" />| [ACE dashboard](ace.psmfc.org) | The Alaska Climate & Ecosystems dashboard: online hub for EBM information and tools||
-  
+|| Link | Description |POC|
+|--- | :--- | :----- |:--|
+|<img src="Figs/logos/ACE2.png" alt="drawing" width="100" />| [ACE dashboard](https://ace.psmfc.org) | The Alaska Climate & Ecosystems dashboard: online hub for EBM information and tools||
+|<img src="Figs/logos/ACTv2-01.png" alt="drawing" width="100" />| [NOAA-CEFI-Alaska](https://github.com/noaa-afsc/NOAA-CEFI-Alaska) | Sub-team working to advance next generation ecosystem forecasting & planning tools ||
+|<img src="Figs/logos/logo.png" alt="drawing" width="80" />| [Rpath()](https://github.com/NOAA-EDAB/Rpath) | R() based Ecosystem modeling ||
+ 
 ## Internal (NOAA)
-|| TEAM | Description |POC|
+|| Link | Description |POC|
 |:--- | :--- | :----- |:--|
 |<img src="Figs/logos/ACTv2-01.png" alt="drawing" width="100" />| ['CEFI-AK'](https://github.com/noaa-afsc/AK-CEFI) | Internal github for the sub-team working to advance next generation ecosystem forecasting & planning tools ||
 
