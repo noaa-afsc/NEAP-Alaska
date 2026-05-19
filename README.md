@@ -22,7 +22,7 @@ For repositories migrated to noaa-afsc organization
 
 || TEAM | Description |POC|
 |:--- | :--- | :----- |:--|
-|<img src="ACTv2-01.png" alt="drawing" width="200" />| `AK CEFI` | Sub-team working to advance next generation ecosystem forecasting & planning tools ||
+|<img src="ACTv2-01.png" alt="drawing" width="100" />| `AK CEFI` | Sub-team working to advance next generation ecosystem forecasting & planning tools ||
 
 * [(public) NOAA-CEFI-Alaska](https://github.com/noaa-afsc/NOAA-CEFI-Alaska)
 * https://github.com/NOAA-EDAB/Rpath
