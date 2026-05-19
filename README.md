@@ -1,5 +1,5 @@
-# Welcome to the Alaska NEAP (AK-NEAP) Repo!
-This is the public facing repository for the Alaska regional NEAP team. As a first step please feel free to go to our discussion board and post an annoucement, idea or other comments. We'll use this public repo to collate ideas and feedback for our coordination to develop and implement tools, product, collabroations aand processes to support EBM in Alaska. 
+# Welcome to the Alaska NEAP (AK-NEAP) repo!
+This is the public facing repository for the Alaska regional NEAP (NOAA National Ecosystem Assessment Program)team. As a first step please feel free to go to our discussion board and post an annoucement, idea or other comments. We'll use this public repo to collate ideas and feedback for our coordination to develop and implement tools, product, collabroations aand processes to support EBM in Alaska. 
 
 Introduce yourself and join the discussion here:
 https://github.com/noaa-afsc/NEAP-Alaska/discussions  
